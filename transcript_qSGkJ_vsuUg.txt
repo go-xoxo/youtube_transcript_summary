@@ -1,1 +1,895 @@
-TRANSCRIPT_NOT_FOUND
+[WARN] Metadata not available.
+
+this video is sponsored by ground news I
+used to think that entropy is a measure
+of disorder um if you look at my room
+for example this is pretty ordered so
+it's very low entropy but give it a few
+hours and it'll become highly disordered
+very high entropy so look the entropy of
+the universe naturally tends to increase
+the second law of Thermodynamics it all
+makes perfect sense or does it if you
+pour milk into coffee then there's a
+point in time where the milk and the
+coffee are just mixing together right
+but then after a few more minutes if you
+give it some time then eventually it'll
+all be nice and mixed so look over here
+did the universe just go from highly
+disordered to being ordered meaning did
+the entropy of the universe decrease no
+this is actually low entropy State and
+this is actually High entropy state but
+how does that make any sense and when
+you think from the point of view of
+order and disorder it was all confusing
+for me and that's why entropy and second
+La of therms actually did not make a lot
+of sense
+until I started reading P1 lectures oh
+my God then my mind was blown so the
+goal of this video is not just to
+ReDiscover the ideas of entropy or the
+second law of themodynamics no no no
+it's also to gain a deep intuition
+behind why it's called the error of time
+or how it makes its way into information
+Theory or how does it even allow life to
+exist in the first place so if you're
+ready for this let's begin so fman where
+do we start fman says mahes since we on
+a journey of rediscovery forget what
+whatever you know about entropy or
+second law of Thermodynamics which is
+easy for me and look at these two videos
+one of them is a video that's being
+played in forwards and another one is
+just the reverse of it which one is the
+reverse and I'm like that's pretty easy
+the second one because coffee and milk
+spontaneously does not unmix itself so
+that's the Reversed one but Fon asks why
+I mean look at it at the microscopic
+level if you could see individual atoms
+or molecules in motion then in one of
+the cases you might see a motion that
+looks like this it's completely called
+lighting and it's moving in a very
+random manner now if you look at the
+reverse of it it looks like this and fin
+ask mes now can you tell which is going
+forward in time and which is going
+backwards in time and I'm like no now
+you can't tell both of them look like
+they're going forward in time there's
+there's no distinction between them so
+this means at the microscopic level you
+know you cannot tell whether atom's
+motion or moleculars motion is going
+forwards or backwards in time and yet
+if you look at the collection of these
+very same atoms at a microscopic level
+you can tell whether you're looking at
+something that's going forwards or
+backwards in time in other words atoms
+or moleculars motion is completely
+reversible the laws of physics whether
+you consider classical mechanics or
+quantum mechanics whatever does not care
+about going forwards or backwards in
+time does not distinguish between them
+so it's completely reversible and yet at
+the macroscopic level the collection of
+these very same atoms and molecules
+their processes are are purely
+irreversible how how do you get these
+irreversible processes from completely
+reversible events that is a key question
+and I'm like wow you know people say
+that learning is about asking the right
+question and this is a profound question
+how do you get irreversibility from
+completely reversible microscopic events
+what's going on over here fan well since
+the motion of every single particle like
+atoms or molecules is complet completely
+reversible the answer does not lies in
+physics but because when you consider
+the collection of large number of atoms
+or molecules that's where the
+irreversibility comes which means the
+answer actually should lie in
+statistics wow but fin one statistics
+I'm pretty bad at it and F says don't
+worry we'll do it step by step in fact
+we'll start with a warm-up example
+consider you have 10 marbles with you
+and you have a box and you're going to
+close your eyes and you're going to
+throw these marbles randomly into the
+box after throwing all of 10 of them
+you'll get some pattern right I'm going
+to show you two patterns and you have to
+tell me which one's more likely so
+here's the first one you might get a
+pattern that looks like this after
+throwing them into the box and the
+second pattern you might get it looks
+like this mahes which of these two
+patterns look more likely to you once
+you have thrown them randomly in fact if
+you can answer this correctly then
+that's it you'll be able to ReDiscover
+everything else all by yourself so those
+Saks are pretty high I'm like that's
+peasy the second one and F's like why
+I'm like well that's because what I mean
+what's the chances of it getting like
+you know all the marbles lining up right
+next to each other that should be very
+low the second one therefore is much
+more likely and Fon says all right let's
+compute this and I'm like wait a second
+how do we do the math that looks
+complicated no no no we'll we'll
+simplify in fact what we can do over
+here is we can um assume that there are
+five rows and there are you know eight
+columns which means there are total of
+40 slots now come come over here and
+think of it this way okay mahes what is
+the you know probability of the first
+marble which you throw lands exactly
+over here how do you compute that well
+think about it there are slots and the
+chances of Landing in in any one of
+these slots is exactly the same so the
+probability of Landing in this
+particular slot is 1 out of 40 right
+okay now what is the chance of the
+second marble Landing over here well
+again now there are 39 slots available I
+mean we we can assume that if it lands
+on top of this marble we will repeat the
+experiment okay so there are 39 marble
+slots available and each one is equally
+likely so now the chances of Landing
+over here is 1 over 39 similarly the
+chances of Landing over here is 1 over
+38 and so on and so forth and of course
+we need to do a little bit more work to
+actually compute the probability but
+that's not important what matters is
+this is how we would go about it right
+if you do the first one now let's try do
+the second one and see what we get again
+mahes what is the chance of the first
+marble Landing over here exactly it's 1
+over 40 what about the second marble
+Landing over
+here 1 over 39 and so on and so forth
+this means the probability that you
+would get for this specific pattern is
+exactly the same as you would get for
+this pattern they're both equally likely
+or both equally
+unlikely wait a second that why why that
+does not make any intuitive sense what's
+going on over here well think of it this
+way here you said what are the chances
+that all the marbles will land right
+next to each other so this must be
+highly unlikely right but the same is
+the case over here what is the CH what
+are the chances that you know one marble
+lands exactly one square to the right
+another marble lands exactly two squares
+to the left and so on and so forth if
+you think of it that way even this
+pattern is very very unlikely isn't it
+yeah that makes sense so that means any
+pattern must have the same probability
+yes any pattern you take must have
+exactly the same probability it's just
+that the pattern on the top looks much
+more ordered to us and therefore we
+think that it's much more rare but as
+the match shows us it's not any more
+rare than any other pattern that you
+take which is incredible if you think
+about it but F why did my brain make
+that mistake because I did not pause and
+try to verify my conclusion as a result
+I had an error in my judgment and that's
+a simple this is a simple example mes
+but consider what would happen if you
+were reading an article like this
+astronaut rushed to the hospital after
+returning to Earth with a mystery
+medical condition you might conclude
+that there must be some mystery space
+dis is going on over here and you might
+have even more questions like which
+astronaut over here is this even real or
+fake
+but by going to ground news I can see
+that this article is actually covered by
+87 different sources which gives me more
+confidence in it and if I read other
+headlines I will immediately see that oh
+this is about Sunita Williams and uh she
+was in space for over 8 months and the
+main problem over here was Extended Stay
+in space in a few seconds we got way
+more confidence and context in this news
+and that's why I love ground news who
+are sponsoring this video one of my
+favorite features over here is how I can
+immediately see the factuality r here
+you can see that 75% of the sources are
+rated high and I can just filter the
+high factuality ones like physics.org
+and then just go over and read that news
+article in detail ground news also has a
+blind spot feature which highlights
+stories that are heavily covered by one
+set of the political Spectrum but under
+reported on the other this way you can
+see what you might be missing and get a
+fuller view of the news it's a simple
+way to spot gaps in coverage and make
+sure you're getting a balanced
+perspective and I think ground new is so
+cool because it was founded by a former
+NASA engineer to make news easier to
+understand without telling you what to
+think with bias ratings coverage from
+different perspectives and factuality
+scores it helps you see the full picture
+and you can make up your own mind so if
+you go to ground. news/ flad or just
+scan this QR code you'll get a 50% off
+on their Vantage subscription and
+remember when you're supporting my
+sponsor you're also supporting my
+channel so now back to rediscovering OV
+now let's see if you can answer an
+original question using a simple example
+let's consider a gas which is trapped in
+one corner of a a small box and then
+we'll let go of it and we know naturally
+that the gas tends to expand again this
+is irreversible yet at the microscopic
+level we know that all the molecules are
+you know their motion is completely
+irreversible so why does this happen
+well let's see if we can answer this
+question first of all we can identify
+three distinct stages of this particular
+gas let's say it goes from being in one
+corner to it occupying the half of the
+box and then occupying the complete box
+over there our big question is why
+doesn't it go backwards let's try to
+answer this question by looking at
+things microscopically so over here in
+this particular case we can model this
+by saying hey it's kind of like that
+marble where we have 40 slots but we are
+restricting those 10 marbles to only 10
+slots because we're asking them to be in
+one particular Corner how many ways can
+you arrange that well if you have 10
+Marbles and you have to restrict them to
+just 10 slots there's only one way to
+arrange that like this so there's only
+one Arrangement available to get this
+particular um this particular state but
+now for this particular State it's kind
+kind of like modeling it and saying that
+hey now those 10 marbles can occupy you
+know half the box which means about 20
+slots they can occupy 20 slots how many
+ways can you arrange them well now there
+are a lot of ways you can arrange them
+because there'll be a lot of empty
+spaces right in fact if you do the math
+it turns out the total number of
+Arrangements would be a staggering about
+.18 million that many Arrangements will
+now be available for this particular
+State and finally for the fully exponent
+gas we can model it by saying that hey
+now these 10 marbles can occupy all the
+40 Slots of our box and now because
+there are more empty spaces there are
+even more Arrangements available over
+here in fact if you add them up turns
+out you'll get
+850 million Arrangements again the
+numbers are not important how we got
+that is not important but you can kind
+of intuitively Mak sense right more
+empty space means more number of ways
+you can arrange them so the number
+should be very high so look the total
+number of Arrangements we have is 850
++18 + 1 which is about 850 million
+Arrangements all right so now let's
+let's imagine that our gas is in this
+state our question is what's going to
+happen in the future well it can go
+backwards right because at the
+microscopic level everything is
+reversible so it can go backwards but
+what is the probability let's figure
+that out what's the probability of it
+going backwards well if it has to go
+backwards then how many Arrangements do
+we have that goes backwards well there's
+only one Arrangement belonging to this
+particular thing out of 850 million
+arrangements so if all of these
+arrangements are equally likely the
+chances of this Arrangement
+spontaneously occurring from here is 1
+over 850 million and the chance of that
+is almost zero that's why the chances of
+gas going back is almost zero similarly
+what is the chance that the gas can stay
+in that same Arrangement because they
+have so many Arrangements it's possible
+the gas can stay in that same state well
+again there are .18 million Arrangements
+available for this particular state so
+the chances of you know picking any one
+of these is18 million out of the total
+850 million which is is again almost
+zero so the chances of gas staying in
+that state is also pretty much zero now
+what is the chances that the gas goes to
+this state well for that we ask how many
+arrangements are available there are 850
+almost all the arrangements over here
+belongs to this state so the probability
+of getting that is almost
+100% so look right in front of your eyes
+we have the answer to our original
+question why is it that even though at
+the microscopic level things are
+reversible each every single Arrangement
+is equally likely so things are
+reversible what happens at a macroscopic
+level at the macroscopic level the
+number of Arrangements belonging to this
+one is so much low that it cannot go
+backwards for all practical purposes the
+chances of going backwards is zero there
+and the number of Arrangements available
+for this one is so much High the the
+chances of it going forward is much more
+you know it's almost 100% and that's why
+at the macroscopic level it goes in One
+Direction things tend to be IR
+reversible does that make sense so now
+we can Define what entropy is let's
+first introduce some jargons what we see
+at the microscopic level we call them
+macro States so macro state is basically
+what you see at the macros level um
+there are three differ macro States over
+here okay now for each Macro State the
+number of different Arrangements that
+you have is what we call the micro
+States because that's the microscopic
+level all right now what is entropy
+entropy is a measure of of the number of
+micro States that's what we Define
+entropy as and now we can understand why
+this is low entropy because it has only
+one micro State and therefore very low
+entropy but this one has a lot of micro
+States so there is very high entropy and
+so if you take any system the chances of
+the entropy decreasing is negligibly low
+and that's why we can now intely come up
+with second law of Thermodynamics which
+would we can say that the entropy of an
+isolated system will never
+decrease beautiful isn't it but fin then
+wait a second shouldn't we say that the
+entropy of a closed system and we'll
+come back to closed system a little bit
+later as to why it is called a closed
+system anyways shouldn't it be shouldn't
+we say that it is most it will most
+likely not decrease because it's all
+about probability there's a good chance
+I mean there's a very tiny chance it can
+decrease well fan says yeah technically
+mahes you're right but look at the
+numbers I mean even with just 10 Marbles
+and 40 slots look the chances of it
+going back is so low now imagine what
+would happen in the realistic case where
+we have 10 to the 27 atoms and we're
+dealing with so many more empty spaces
+and so many more slots the chances of it
+going back would be astronomically low
+so yes technically there's a small
+chance that a gas in a room will
+spontaneously go into a corner but the
+probability of that is ridiculously
+small it's so small that you'll have to
+wait more than the age of the universe
+something like that right and so what's
+fascinating to me is that this whole
+irreversibility is just probabilistic
+it's not laws of physics but it's the
+laws of statistic it's math that makes
+things irreversible that is
+awesome anyways we can now also
+understand the whole idea behind order
+and disorder when we say something is
+ordered we basically mean a macro state
+in which there are less number of micro
+States less number of way to arrange
+that and we say something is disorder
+what we really mean is a macro state in
+which there are more number of micro
+States more number of ways to arrange
+that that's what we mean but now that we
+have a much more concrete definition of
+micro State and micro States let's not
+use the word order and disorder anymore
+now let's go back to our coffee and the
+milk example why does it go from this
+state completely being you know
+separated to mixing together why doesn't
+it go backwards well again if we can
+model it we can say that this one is
+kind of like having a micro State like
+this there's only one arrange for that
+and therefore this has the lowest
+entropy lowest number of micro States
+over here it's kind of like saying that
+hey you know what you can mix or here in
+this particular section probably coffee
+and milk particles can mix so now we
+start getting more number of
+Arrangements available and so the number
+of micro States increases and therefore
+the entropy is higher okay but in this
+particular case it's kind of like saying
+hey you know what the coffee particles
+and milk particles can occupy whatever
+States It Whatever slots it wants and
+now you will have the highest number of
+arrangements for this and therefore this
+is the highest entropy and so now you
+can see why is this low entropy because
+there are less number of micro States
+this is high entropy because there are
+more number of micro States and
+naturally you tend to go from a macro
+state of low entropy to a macro state of
+high entropy its probability beautiful
+isn't it and this now explains why
+entropy decides the arrow of the time if
+you look at things at a microscopic
+level you can't tell whether you're
+looking at an evolution that's going
+forward in time or you're going
+backwards in time because all micro
+states are equally likely so there is no
+error of time at the microscopic level
+but it's only when you look at its
+corresponding macro States the picture
+becomes much more clear it is evident
+that as we go forward in time we can
+only go towards macro state that has
+high entropy because that's a high
+probability chance and that's the reason
+why at a macroscopic level things are
+irreversible giving us a particular
+Arrow of time from the past to the
+Future so what's profound and blows my
+mind away is that the arrow of time does
+not come from physics it actually comes
+from statistics and probability that is
+insane if you ask me understanding why
+entropy of an isolated system can never
+decrease makes perfect sense when you
+think in terms of micro States or does
+it finally I think I can break the
+second law of Thermodynamics very easily
+just go back to that particular gas and
+I'm just going to introduce a piston
+over here and I'm just going to flick
+that piston and then look the gas gets
+compressed doesn't that mean that the
+entropy of the gas is reduced I've brok
+on the second law of thermodynamics now
+in my heart I know this does not break
+the second law of Thermodynamics but
+this is the most powerful way to learn
+when you learn something new try to
+critique it try to break it and see what
+the logical flaw is that's how you
+deepen your understanding and gain
+Mastery your teachers may not like it
+but that is the best way to learn so
+over here I now know that entropy is a
+number of micro States compressing the
+gas reduces the number of micro States
+so shouldn't the entropy reduce answer
+in terms of the number of microstates
+fan and fman says yes mahes as you
+compress the gas the number number of
+ways you can arrange the particles will
+reduce so you might think that it
+reduces the number of micro States but
+so far we ignored something see when you
+compress a gas this way it Heats it up
+meaning it increases its temperature
+temperature is a measure of the average
+kinetic energy which means now there is
+more kinetic energy for these particles
+if you give it more kinetic energy you
+can distribute that kinetic energy in
+various ways and each of them now adds
+to to its micro States so although in
+this model there is only one way to
+arrange that particles but there are so
+many ways to arrange that kinetic energy
+distribute that kinetic energy that you
+end up with lots and lots of micro
+States so you have a lot of micro States
+because even kinetic energy can be
+distributed for a given particle
+arrangement so when you compress a gas
+this way the number of micro states does
+not decrease in fact it actually
+increases and I'm like this makes so
+much more sense now this is the reason
+why if you have a if you have a gas at
+high temperature it has a high entropy
+compared to an identical gas of low
+temperature it has lower entropy well
+earlier I should think that high
+temperature means more Randomness but
+now we can think more concretely high
+temperature means more kinetic energy
+available so there are more ways in
+which you can distribute it adding to
+the number of micro States increasing
+the entropy beautiful isn't it but wait
+we're not going to give up there's
+another way to try and break this law of
+thermodynamics what if we could compress
+this gas without increasing its
+temperature one way to do that is by
+introducing Maxwell's demon James
+Maxwell came up with an interesting
+thought experiment he asked what if
+there was a hyper intelligent being or
+some kind of an advanced computer system
+whatever it is we're going to call that
+Max steon if she could learn the
+positions and the velocities of every
+single particle then she can have a trap
+door over here and she can make sure
+that whenever there's a high energy
+particle coming from the right to the
+left she allows that particle to go
+through but if there's a high energy
+particle coming from the left to the
+right she will not allow it to go
+through this way she can ensure that all
+the high energy particles from the right
+will eventually end up towards the left
+in other words she would have compressed
+the gas without changing its kinetic
+energy there you have it we have reduced
+the entropy of the system what you got
+to say about that finin and fan says M
+first of all calm down okay second of
+all you are right the entropy of the gas
+might have reduced but what about the
+entropy of the Maxwell's Demon's
+brain let's consider the state of her
+brain before and after she learns about
+the velocities and the positions and all
+of that okay now before learning about
+the position and the velocities she has
+no information and we can model that by
+saying that all the bits of that
+particular part of her brain is zero
+right so no information means all zeros
+and how many ways can you arrange all
+zeros in a particular section of the
+brain there only one way all zeros
+there's only one Arrangement you have
+which means this represents low entropy
+because there's only one micro State now
+once she learns about the positions and
+all of that that specific part of the
+brain will now have some information and
+how do we model some information well
+she will have some zeros and some ones
+how can you now arrange some zeros and
+some ones there are so many ways to
+arrange it you can arrange it this way
+and this way and this way so there are
+so many Arrangements available that
+means the number of micro States
+explodes which means this now represents
+High entropy so just by learning she
+hasn't done anything else just by
+learning about the position just by
+acquiring information the entropy of her
+brain has exploded it's makes sense
+right so earlier the gas had high
+entropy and her brain had low entropy
+now once she finishes all her tricks the
+gas gets compressed and ends up having
+low entropy but her brain ends up having
+high entropy if you consider the total
+entropy of the the system it would not
+have reduced at Max it would stay the
+same but it would not reduce and for me
+what's blowing my mind at this point is
+look at how far we have come just by the
+idea of micro States we can Now
+understand that when something acquires
+information its entropy must increase
+the number of micros increases the
+entropy increases acquiring information
+increases the entropy of that object
+this is how entropy makes its way into
+information Theory this is is beautiful
+isn't it but wait I have another silly
+idea to break the second law of
+Thermodynamics I'm not going to stop
+what if I just take a hot gas and just
+keep it in touch with a cold gas then we
+know heat will start flowing from the
+hot gas to cold gas until the
+temperature equalizes and in doing so
+look the uh the temperature of the hot
+gas has reduced meaning the entropy must
+have reduced the number of you know the
+kinetic energy has reduced number of
+Arrangements has reduced so look I have
+reduced the entropy of the gas and fan
+says yes but remember the second law of
+Thermodynamics says the entropy of an
+isolated system cannot decrease an
+isolated system is where you cannot
+exchange matter or energy this first box
+is not an isolated system it is
+exchanging matter or exchanging energy
+with something else so now we need to
+look at the whole thing together and
+compare its entropy and see what happens
+if you think in terms of particle
+Arrangements well it will be the same
+because same number of particles and the
+same volume everything else is the same
+so we need to think in terms of the
+kinetic energy Arrangements over here
+well in the first case because all the
+high kinetic energy is restricted to the
+left and all the low kinetic energies is
+restricted to the right I can arrange in
+multiple ways but that restriction means
+there are less number of ways I can
+arrange you know I can have this
+Arrangement on the other hand over here
+there is no restriction I can take the
+total energy and distribute it arrange
+it however I want so you can see
+obviously there will be way more
+Arrangements available over here this is
+very similar to how if you restrict
+coffee and milk on one side then there
+is less number of Arrangements where if
+you allow them to mix there will be more
+number of Arrangements the difference is
+instead of particles mixing it is the
+energy that is mixing so clearly this is
+at low entropy and this is at high
+entropy and so indeed when you go from
+here to here look the entropy is
+increasing but look look we now have a
+new perspective on entropy we thought of
+entropy in terms of micro States entropy
+in terms of information but now we can
+think in terms of ENT ropy as how
+concentrated the energy is low entropy
+means the energy is very concentrated
+High entropy means the energy is more
+spread out so the universe's entropy
+tends to increase because energy tends
+to spread out more because there are
+more number of micro states that way
+this is the reason why heat tends to
+flow from a high temperature region to a
+low temperature region because that way
+the energy gets more spread out the
+number of micro States increases we now
+have an intuition behind the most
+fundamental law as to why heat flows
+from high temperature to low temperature
+it's all about the number of micro
+States and probability amazing isn't it
+but I have one final question fin one
+final counter what about refrigerators
+if you have a refrigerator in a room and
+it's not yet turned on then it is like
+this where the entropy is very high the
+temperature everywhere is the same but
+the moment I turn on the refrigerator it
+pumps the heat out and we go to this
+state and look fin one we just saw that
+this not just the refrigerator but the
+refrigerator and the room the entire
+State entire system is at low entropy so
+hasn't the entire system gone to lower
+entropy hasn't it broken the second law
+of Thermodynamics what are you going to
+say about that and fan says mahes
+remember this now is not an isolated
+system because refrigerators require a
+power supply so you need to also
+consider the power supply as a part of
+your isolated system so let's do that so
+if if you consider the power supply like
+say a battery then a battery has a lot
+of concentrated energy o juicy low
+entropy energy so if you look at this
+entire system now there is a very low
+entropy energy over here so the overall
+entropy is pretty low then when you turn
+on the refrigerator it uses this low
+entropy energy to pump out the Heat and
+in doing so look at what has happened
+the entropy of the RO room and the
+entropy of the source has gone up and so
+if you compare it to what it was before
+look the entropy of the refrigerator's
+inside is lower than before but the
+entropy of the room and the power source
+is much higher than before because the
+energy is much more distributed than
+before which means the overall entropy
+ends up
+increasing refrigerators I used to think
+that they try to fight the increase in
+entropy they try to fight the second law
+of Thermodynamics but you you can see
+they don't fight it they too help in
+increasing the entropy they reduce their
+local entropy but increase the global
+entropy they too are riding the wave of
+the second law of
+Thermodynamics but what's more
+interesting is that in order for a
+refrigerator to work in order to be able
+to lower your you know local entropy you
+need a low entropy energy source if you
+have a low entropy energy source you can
+do this increase the number of micro
+States and this second of thermodynamics
+will love you and that's exactly what
+life does for example if you take plants
+and you know plants and trees and
+everything they take the low entropy
+energy from the Sun and they use that to
+you know reduce their local entropy so
+that they can stay alive and they can
+stay ordered if you may and in doing so
+they increase the global entropy
+increasing the number of micro States
+increasing the you know the entropy of
+the whole universe so life does not
+fight the second law of Thermodynamics
+life also rides the way of second law of
+Thermodynamics it's it's used up in
+increasing it also increases the global
+entropy so as far as second law of
+Thermodynamics is concerned life is an
+entropy increasing machine and in doing
+so now it creates fruits and vegetables
+and animals will use the low entropy
+energy in the fruits and vegetables to
+keep their local entropy you know small
+to reduce their local entropy and again
+increasing the global entropy
+life is an entropy increasing machine
+and this also helps me understand a
+confusion that I always had before so I
+used to always think that hey what does
+it mean when we say that don't waste
+energy or don't consume too much energy
+because energy can neither be created
+nor destroyed right well now you can see
+what we talking about when we say that
+don't waste energy what we really mean
+is don't waste low entropy energy okay
+low entropy energy is the one that can
+be you know that is useful to us High
+entropy energy is useless to us so when
+we talk in our terms we are consuming
+energy what we really doing is we are
+consuming low entropy energy and making
+the entropy you know the entropy of the
+energy higher that's what we're
+continuously doing and we're increasing
+the entropy of the universe this also
+means we can Now counter people who say
+that hey you know there's ENT there's
+energy all around us channel that ENT
+energy inside no you can't channel that
+energy inside because that's a high
+entropy energy that's not useful if you
+want to channel anything Channel low
+entropy energy from the fruits or food
+into your body not the high entropy
+energy that you have outside but anyways
+since life is an entropy increasing
+machine this means a planet with life is
+much more probabilistic than a planet
+without life that is amazing right I
+would have never thought of it that way
+but it indeed is because these are
+Global entropy increasing machines
+however you all you do need a low
+entropy Source something like the sun
+and that's why people believe that there
+must be life outside as long as you have
+a habitable planet and you have the
+right ingredients and you have a low
+entropy Starlight on it for example
+continuously life is an probabilistic
+eventually High probabilistic event
+eventually life must you know evolve but
+guess what's better than a planet with
+life planet with intelligent life
+because intelligent life not only
+increases the global entropy using our
+own bodies but we also increase Global
+entropy using a lot of things that we
+do and so intelligent life is even more
+probabilistic than normal life which
+means if you have planets with life
+there should also be planets with
+intelligent life given enough time but
+that's a problem because even with a
+small amount of time humanity has gone
+from living in caves to going to
+different planets imagine what could
+life do intelligent life do if they had
+millions of years they could colonize
+galaxies or Galaxy clusters and if they
+do so we should see some signs of them
+but we don't see anything when we look
+out where are they so intelligent life
+does not exist meaning life does not
+exist exist everywhere this is the
+famous for me Paradox maybe a topic for
+another video and this is where we're
+going to finally stop but we have barely
+scratched the surface I mean there was
+so much more about information entropy
+there's about entropy with gravity and
+eventually what happens to entropy of
+black holes the holographic principle so
+much more if I see interest in that I
+will do more research and make a
+separate video on that in this video we
+will explore why too many neutrons will
+make a nucleus extremely unstable
+another question that I had for a long
+time see you
