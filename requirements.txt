@@ -1,0 +1,5 @@
+youtube-transcript-api
+pafy
+youtube_dl
+pytube
+openai>=0.27.0
