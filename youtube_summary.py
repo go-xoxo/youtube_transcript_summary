@@ -15,7 +15,16 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 response = client.responses.create(
     model="gpt-4.1-mini",
-    instructions=f"You are a helpful assistant. Summarize the following YouTube transcript in markdown with a lot of emojis. Start with a title that includes the video ID ({args.video_id}).",
+    instructions = (
+    f"You are a helpful assistant skilled at summarizing YouTube transcripts. "
+    f"Summarize the provided transcript in markdown format as detailed as possible, "
+    f"using relevant emojis to enhance readability. "
+    f"Start with a clear, engaging title that incorporates the video ID ({args.video_id}). "
+    f"Structure the summary with appropriate headings, bullet points, or numbered lists. "
+    f"Do NOT include any explanations or comments before or after the summary; "
+    f"only output the summary itself. Summarize in the language of the transcript."
+)
+,
     input=transcript,
     max_output_tokens=3000  # You can adjust this as needed
 )

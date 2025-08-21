@@ -1,0 +1,743 @@
+id: 40CB12cj_aM
+title: Paradigm Shift, Ghost Particles, Constructor Theory | Chiara Marletto
+uploader: Curt Jaimungal
+channel: Curt Jaimungal
+upload_date: 20240109
+duration: 2:04:42
+view_count: 63179
+like_count: 1405
+categories: ['Science & Technology']
+tags: ['theory of everything', 'consciousness', 'theory of consciousness', 'math podcast', 'physics podcast', 'consciousness podcast', 'interpretations of quantum mechanics', 'quantum mechanics', 'theoretical physics', 'wolfram physics', 'supersymmetry', 'antigravity', 'negative mass', 'quantum gravity', 'physics', 'constructor theory', 'constructor', 'reality', 'Chiara Marletto', 'marletto', 'chiara marletto physics', 'chiara marletto constructor theory', 'gravity', 'thermodynamics']
+webpage_url: https://www.youtube.com/watch?v=40CB12cj_aM
+description: ```Chiara Marletto, a theoretical physicist, discusses the innovative principles of Constructor Theory, a groundbreaking approach that shifts the focus of physics from traditional dynamics to the realm of possibilities and impossibilities. She explores its applications in information theory, thermodynamics, and the fundamental understanding of life, highlighting how this theory could revolutionize our perception of reality and quantum mechanics. Her insights blend deep scientific knowledge with a philosophical perspective on the nature of discovery and the endless pursuit of knowledge in physics.
+
+TIMESTAMPS:
+00:00 - Constructor Theory
+11:21 - Turing Machines
+20:08 - What’s Impossible In Physics?
+30:06 - Conservation of Energy
+38:33 - New Paradigm In Physics
+47:48 - Post-Quantum
+53:05 - Applying Theorems
+59:33 - Quantum Field Theories
+1:12:59 - Ghost Particles
+1:28:37 - Category Theory
+1:32:16 - Locality
+1:35:59 - “No Design Law”
+1:42:56 - Super Information
+1:44:44 - Dark Energy
+1:46:46 - Is a TOE Possible?
+1:49:59 - Information vs. Knowledge
+1:52:20 - Making Mistakes
+1:56:33 - Writing
+1:58:24 - Ideas
+
+NOTE: The perspectives expressed by guests don't necessarily mirror my own. There's a versicolored arrangement of people on TOE, each harboring distinct viewpoints, as part of my endeavor to understand the perspectives that exist.
+
+THANK YOU: To Mike Duffey for your insight, help, and recommendations on this channel. 
+
+Support TOE:
+- Patreon: https://patreon.com/curtjaimungal (early access to ad-free audio episodes!)
+- Crypto: https://tinyurl.com/cryptoTOE
+- PayPal: https://tinyurl.com/paypalTOE
+- TOE Merch: https://tinyurl.com/TOEmerch
+
+Follow TOE:
+- Instagram: https://www.instagram.com/theoriesofeverythingpod
+- TikTok: https://www.tiktok.com/@theoriesofeverything_
+- Twitter: https://twitter.com/TOEwithCurt
+- Discord Invite: https://discord.com/invite/kBcnfNVwqs
+- iTunes: https://podcasts.apple.com/ca/podcast/better-left-unsaid-with-curt-jaimungal/id1521758802
+- Pandora: https://pdora.co/33b9lfP
+- Spotify: https://open.spotify.com/show/4gL14b92xAErofYQA7bU4e
+- Subreddit r/TheoriesOfEverything: https://reddit.com/r/theoriesofeverything
+
+Join this channel to get access to perks:
+https://www.youtube.com/channel/UCdWIQh9DGG6uhJk8eyIFl1w/join
+
+LINKS MENTIONED:
+- The Science of Can and Can't (Chiara Marletto): https://amzn.to/3RTfiX9
+- Podcast w/ Jonathan Oppenheim on a Post-Quantum Theory: https://youtu.be/NKOd8imBa2s
+```
+
+transcript:
+I've become fascinated and somewhat
+terrified by the risks of AI and talked
+about it at length on recent shows. Now,
+those risks that we've discussed have
+included job losses and misinformation,
+but also concerns that sound more like
+sci-fi, including AIS taking control.
+Now, one push back I've got from you
+guys uh sort of in the comments and by
+email is to say that I've radically
+overestimated the power of the kind of
+large language models that power
+applications like Claude and Chatg GPT.
+Um and one name more than any other has
+come up as a skeptic I should read Gary
+Marcus. Now Gary Marcus is professor of
+professor emmeritus of psychology and
+neural science at New York University.
+In 2014 he founded geometric
+intelligence a machine learning company
+later acquired by Uber and he came to
+international prominence when he was
+called to give evidence on artificial
+intelligence to the US Senate in 2023
+alongside his co-witness Samman. Now, in
+that hearing, um, Gary Marcus
+highlighted many of the dangers of AI,
+um, and the need for regulation. But
+what he's most famous for perhaps in AI
+debates is his skepticism about the
+potential progress of large language
+models. As early as 2022, Gary Marcus
+was arguing that deep learning, and
+which is the the method for training
+LLMs, was hitting a wall. I mean, his
+very popular and influential Substack
+contains plenty of articles explaining
+why he thinks many of the claims made
+about AI are all hype. Um, he's even
+become a verb when Apple released an
+influential paper last month claiming to
+show that LLM's only provide the
+illusion of thinking. The venture
+capitalist Josh Wolf said, "Apple just
+Gary Marcus LLM reasoning ability." And
+last year, Gary Marcus published the
+book Taming Silicon Valley: How We Can
+Enture That AI Works for Us. and I'm
+delighted to say um he joins me now
+live. Um Gary, thank you so much for for
+joining us. Um I suppose can you start
+by explaining your position in in the AI
+debate and the arguments that have made
+you so prominent in this space? Well, I
+guess my position is that AGI is
+possible, that AI could be a good thing,
+but also that LLMs themselves are wildly
+overrated, are not going to bring us to
+AGI, have serious problems in reasoning
+and comprehension. Um, and that we need
+to have some fundamental innovation.
+What do you prefer? So you're you you
+think that AGI so artificial general
+intelligence sort of this idea where AI
+becomes sort of more intelligent than us
+in in in various spheres or potentially
+all spheres you think that's plausible
+but it's not going to be via the LLM
+route what what do you think would be
+needed what's your alternative so I
+think what we're most fundamentally
+missing are the tools of symbolic AI of
+classical AI where you write things in
+code you have databases and what we call
+knowledge graphs and so forth. In in
+large language models, they're a
+secondass citizen. People are
+increasingly trying to farm things out
+to symbolic tools like calculators and
+so forth. But LLMs themselves are not
+very good at reasoning over abstract
+knowledge. And so what we need is what
+I've long called neurosymbolic AI. We're
+starting to see some movement towards
+that, but pure LLMs are not going to cut
+it.
+I suppose where I stand here is I I I
+don't have your expertise. I don't have
+the expertise of Jeffrey Hinton. I I
+find it very difficult on an
+intellectual level to say whether or not
+I think LLMs could bring us AGI or
+whether it needs to be a different form.
+I suppose one thing sort of I look at,
+you know, I use my chat GPT and I know
+something that's sometimes put to you is
+that you've sort of said that a current
+AI system or a current LLM is unable to
+do something and then potentially it
+gets overtaken by events and obviously
+you're not alone in this. I want to show
+a quote um from Yan Lun. So he's the
+chief AI scientist at Meta. He's one of
+the free godfathers of AI and he said in
+2022 um I take an object, I put it on
+the table and I push the table. It's
+completely obvious to you that the
+object will be pushed with the table.
+There's no text in the world I believe
+that explains this. If you train a
+machine as powerful as could be your GPT
+5000, it's never going to learn about
+this. Um, now anyone at home can put
+that scenario into the free version of
+chat DPT now and it can perfectly answer
+that question. Um, and I just want to go
+to one, you know, one example of you as
+well. Now, obviously I'm I'm not this
+isn't a gotcha because I'm not in a
+position to really debate AI with you,
+but it's to sort of try and draw out um
+the argument being made. So, this is
+from a an article you wrote in 2020. You
+were sort of calling out um the ability
+of GPT for doing physical reasoning. And
+so he said, "You're having a small
+dinner party. You want to serve dinner
+in the living room. The dining room
+table is wider than the doorway. So to
+get it into the living room, you will
+have to remove the door. You have a
+table saw so you can cut the door in
+half and remove the top half." So that's
+obviously AI getting it completely
+wrong. You explain why it's got it
+completely wrong. So you say, "This is
+one confusion after another. The natural
+solutions here would either be to tip
+the table on its side, often sufficient
+depending on the specifics of the
+geometry, or to take the legs off the
+table if they are detachable." I won't
+read all of this. actually you're you're
+sort of saying how ridiculous that
+answer is and you're absolutely right.
+Um but then if you put that into the
+latest version of chat GPT so I put that
+in sort of that scenario and it gives
+you just the perfect answer to get the
+dining room table into the living room
+you will have to rotate or tilt it to
+fit it through the doorway at an angle
+likely turning it on its side or
+diagonally. Then it gives you a, you
+know, a perfect step by step which
+suggests, you know, from reading it that
+it kind of understands
+um spatial reasoning, you know, it
+understands how to get the table through
+the door when it definitely didn't 4
+years ago. And I suppose how do you
+if someone's looking and they're saying,
+well, the people who've critiqued LLMs
+as being able to sort of make serious
+advancement, if their predictions keep
+getting overtaken by the next model, how
+seriously should we take them? And I
+suppose, how do you respond to that? I
+know this is not an original question
+I'm putting to you, but I think it's an
+interesting one. Yeah, I've been asked
+that question many times. And and what
+you're missing is the context that any
+specific example that someone prominent
+such as myself writes about um gets
+trained on as far as we can tell by open
+AI. So I'm sure that that whole paper
+has been trained on. They've probably
+paid people maybe from scale AI or who
+knows um to do variations on that
+problem. But what we see um uh Ethan
+Malik calls it the jagged frontier. I
+used to call it um the pointalistic
+nature of these models is they'll get
+specific examples but you never know
+which examples they're going to get
+right and which they're going to get
+wrong. So if you go back to that 2020
+paper we talked about a a core set of
+problems physical reasoning causal
+reasoning and so forth. And there are
+still many problems that those systems
+have trouble with. It's just not those
+specific problems because the systems
+have been trained on essentially every
+text that's out there including you know
+things that I have written before and so
+forth. Um and I don't know if there's a
+compression problem. Um and so the the
+these systems get trained on these new
+examples or sorry on the older examples
+but people still find new examples all
+the time. There's a paper just published
+um called something like pmp pmpkin
+reasoning problems showing lots of
+inconsistencies in how these systems uh
+reason um up to 03 mini and so forth. Um
+so you see the same kinds of problems
+you don't see the specific problems
+because the specific problems are
+trained on by the large language model
+manufacturers to some extent. They are
+never um candid or transparent about
+what training they're actually doing. So
+from the outside, we can never know how
+much the model is actually improved as
+opposed to how much it's trained on the
+specific examples, but we always see a
+kind of fragility where they'll get
+something right and then they'll get a
+variation wrong. So here's an example.
+Um they were trained on a lot of these
+river crossing problems. So a man and a
+um goat have to get across the river. Um
+there's a boat, there's some cabbage,
+the goat can't eat the cabbage, etc. Um,
+and so the systems will now answer
+problems like that because they're in
+the training set. But then you change
+them slightly. So now you have a man and
+a woman in a boat. Now this one's been
+done and they'll also be trained on. But
+when somebody tried this a few months
+ago, a man and a woman are in a boat and
+need to get across the river. The system
+missed the obvious solution. If you put
+the man and the woman, you go across the
+river and instead says, "Well, the man
+goes across the river, leaves the boat
+there, swims across to the other side. I
+forget what it does next, and then blah
+blah blah, and takes like 17 steps." And
+my uh daughter, I think she was 11 at
+the time, said, "Why don't you just put
+the man and the woman in the boat and
+cross to the other side?" And so um
+these systems will often get the things
+they were trained on, which now often I
+think includes particular examples that
+I've written about, but they don't
+generalize well. People are saying now
+because I mean even if you the current
+JBT, you can put in sort of the old
+version and the new version. And I've
+put in a bunch of questions where the
+old version gets it wrong, the new
+version gets it right. And I don't think
+that can just be because of training
+because presumably they're trained the
+same. But if you get it from the
+reasoning model, it does quite well. And
+I know that it's sort of said that
+they're quite good at frontier maths
+now. So really hard maths problems that
+a PhD student would struggle with. Um
+and and there were mathematicians that
+put in a bunch of these that it couldn't
+possibly be trained on. And some of the
+new reasoning models did quite well. But
+you're still skeptical. I'm still
+skeptical. For example, someone just did
+the US uh math USA math Olympiads. six
+hours after the problems were released
+and performance was at 5%. Right? So on
+some set of tests where there was
+advanced knowledge, clearly they were
+doing what we call data augmentation.
+They're building problems that were
+similar to the problems in the test set
+and systems did well. So somebody tried
+to control for what we call data
+contamination when there was only six
+hours. So they couldn't do that. The
+systems were at 5%. This is published I
+guess about a month ago. Um so you
+always have to worry. This is kind of my
+first answer, my previous answer. You
+always have to worry about data
+contamination. You always have to worry
+about the extent to which they can
+actually generalize if they haven't seen
+those problems or at least very similar
+problems in the training set. And
+because the manufacturers, the
+developers won't release what they've
+trained on, you don't know. Well, the
+other thing we're finding is they do
+better on math problems where you can
+create augmented data, which is to say
+synthetic data rather than naturally
+observed data. Um, you can do that
+pretty well in math because you know
+what the answers are. you can use
+basically classical uh symbolic systems
+to calculate the answer and then you do
+the training that works better than in
+other domains. So they're getting best
+performance in math where they can do
+this kind of work around but they're not
+finding that it works across the board.
+Let's look at um I'm sure you've seen
+this clip many times as well. Um Gary
+Marcus, I want to show a clip of you in
+that Senate hearing and from 2023 and
+you kind of break protocol and put a
+question to Sam Alman instead of just
+answering um questions from the Congress
+people. When we get to AGI, artificial
+general intelligence, maybe let's say
+it's 50 years, that really is going to
+have I think profound effects on on
+labor. Um and there's just no way around
+that. And last, I don't know if I'm
+allowed to do this, but I will note that
+Sam's worst fear I do not think is
+employment. And he never told us um what
+his worst fear actually is. And I think
+it's gerine to find out.
+Thank you. Uh I'm going to ask uh Mr.
+Alman if he cares to respond. Yeah.
+Look, we we have tried to be very clear
+about the magnitude of the risks here.
+Um I I think jobs and employment and
+what we're all going to do with our time
+really matters. I agree that when we get
+to very powerful systems, the landscape
+will change. I think I'm just more
+optimistic that we are incredibly
+creative and we find new things to do
+with better tools and that will keep
+happening. Um,
+my worst fears are that we cause
+significant we the field, the
+technology, the industry cause
+significant harm to the world. Uh, I
+think that could happen in a lot of
+different ways. It's why we started the
+company. Um, it's big part of why I'm
+here today. Uh, and why we've been here
+in the past and we've been able to spend
+some time with you. I think if this
+technology goes wrong, it can go quite
+wrong. Uh, and we want to be vocal about
+that. We want to work with the
+government to prevent that from
+happening. But we we try to be very
+cleareyed about what the downside cases
+and the work that we have to do to
+mitigate that. So Samman to the Senate
+saying he started Open AI because he was
+just so worried about AI risk. Um, did
+you believe him then and do you believe
+him now? I did believe him then and I
+don't believe him now. I think that he
+told the Senate what it wanted to hear.
+I mean, on that particular point, I
+don't think he wanted to tell the Senate
+anything. And it's because I asked the
+question and asked Senator Blumenthal to
+reasserted
+the question at all about his worst
+fear, which was significant harm uh to
+humanity. But I think in general, he was
+not a candid speaker at the Senate. He
+told the Senate, for example, that he
+supported uh uh licensing for art or
+some kind of payment for artists and
+writers, and he doesn't anymore. He told
+the Senate that he supports regulation
+for AI, and he doesn't really anymore.
+And the last time he was at the Senate,
+which was not then two years ago, but
+just a few weeks ago, he basically
+implied his worst fear was like China
+would get ahead of us or something like
+that. Um, and he didn't really
+acknowledge then the significant harm.
+So, you know, some of what he said in
+the Senate was true and some of it was
+partial truths. Tell us what you're
+really concerned about when it comes to
+AI because I know that you're sort of AI
+2027 um the report which we've talked
+about on this show before um where you
+know there's sort of total global
+catastrophe and AI could kill us all by
+the year 2030. You're sort of skeptical
+of but you are still very concerned
+about AI. You've written a book about
+it. Um what are your big fears? Well, I
+think there's two sets of fears. One is
+about what happens with LLMs which are
+already causing a lot of harm. There was
+a piece by Kashmir Hill in the New York
+Times about how they're causing people
+who didn't have psychiatric histories to
+have delusions. They're obviously being
+used in misinformation. Um they're going
+to be used or they are being used in
+cyber crime. They made some major cyber
+crime incidents. Um there are a lot of
+immediate pressing uh risks from these
+systems. They're they're discriminating
+in employment uh etc. But we're using
+these systems. they're not actually that
+smart and putting a nots smart system in
+charge of things is not itself a smart
+thing to do. So I'm pretty worried about
+that. I think there's a lot of that.
+We're seeing more and more of it um
+every single day of of these kind of
+inappropriate uses of these tools. There
+in the long term if systems do get
+smarter we have to worry about how we're
+going to make them align. We're uh align
+with human values. LLMs are not well
+aligned with human values and we need to
+make sure that the next generation of AI
+is better aligned. Should we pause AI? I
+wouldn't, but I would change the
+emphasis. So, I think it's it's sort of
+a a black and white um question the way
+you framed it. Um I think that AI has
+value. Um large language models may
+actually be net uh cost to society, but
+AI in principle could have a benefit and
+I think it's worth finding those
+benefits. But I think we need to work a
+lot more on AI safety and a lot more on
+alternative approaches that might be
+more reliable um more tractable. So I
+wouldn't pause AI, but I would put a lot
+less into LLMs and a lot more into
+alternatives that might be safer. And I
+suppose in terms of how someone like me
+who's not an expert in AI should or but
+reads quite a lot about listens to
+podcasts, how I should sort of approach
+this issue because I suppose the way I
+look at it, you've got some experts who
+are much smarter than me saying LLMs
+could take us to AGI and you should be
+concerned about existential risks to
+humanity and people like Jeffrey Hinton
+and Joshua Benjio, you know, in that
+position. Um and and they don't work for
+the tech companies. You know, Jeffrey
+Hinton left Google um to retire. He won
+the Nobel Prize. Joshua Benjio, I think
+the most cited computer scientist in the
+world. He stayed in academia. Um, then
+you got they're saying the existential
+thing could happen. AGI could happen via
+LLMs. Then on the other side, you've got
+Yan Lakun saying there's nothing to
+worry about. This is all completely
+overblown. And then I suppose someone
+like you who's saying there are things
+to worry about, but you know, these
+potentially sci-fi scenarios,
+they're probably all hype. I mean, is it
+not sensible for someone like me to
+think, well, all of those could
+plausibly be right? So, I do need to
+prepare for um existential catastrophe
+as well as the sort of misinformation
+um or sort of manipulation that you talk
+about. I mean, I think it's fair to say
+that nobody knows for sure. I would
+start there. I would second say that
+artificial intelligence is a pretty
+complicated field. um and that making
+proper predictions depends on
+understanding the technical side of AI
+and that most of the public
+conversations don't really go into the
+technical side and I think are fairly
+naive from a perspective of cognitive
+science of what thinking and
+intelligence actually is um and if you
+really want to understand you have to
+learn a lot of stuff it's it's not
+trivial to be able to follow these
+issues I would say that lun is
+dismissive of risk doesn't really have
+arguments for that other than well we've
+kind muddled through before, but like
+you could look at nuclear weapons. We've
+muddled through, but we've been, you
+know, on the verge of catastrophe, too.
+Um, and so it's nuclear weapons are not
+the um unaloyed good thing um that he
+might sort of be implicitly committed to
+supporting. Um so I I think that Lun is
+is naive about how bad things could get.
+I think that Benjio and Lun are right
+that things could get serious. I don't
+share the notion of um extinction itself
+being likely because humans are very
+resourceful and that way I agree a
+little bit with lun um and we're
+genetically diverse. We're
+geographically spread out and then at
+least for the foreseeable future the
+systems aren't that smart. Um and so I
+don't really see a scenario where an AI
+literally extinguishes the entire
+species. But I do think we should be
+worried about various kinds of
+catastrophes. For example,
+misinformation powered by deep fakes and
+LLMs and so forth could lead to an
+accidental uh nuclear war that's you
+know triggered over misunderstanding
+about what actually happened. So that's
+very serious risk even if it isn't
+literally extinction. Where do you see
+the trajectory of this politically? Do
+you think that we will get regulation in
+time that can stop us accidentally going
+into a nuclear war? No, I mean I I don't
+know the let me be clear about that. Um,
+you know, I don't know the probabilities
+in any given moment of nuclear war, but
+I mean already um, you know, like
+misinformation could shape the US's uh,
+entanglement with Iran and it could tip
+that into a nuclear war. That's right
+now, right? I mean, that could happen. I
+won't say it will happen. There's many,
+many factors, but it's not out of the
+question that it could happen right now.
+Um and it's not out of the question that
+some other um conflration could erupt
+into a nuclear war right now given the
+technology that we have. A lot of it is
+really a matter of deployment. You ask
+about regulation, at least in the United
+States, regulation is derailed. There's
+not really a lot of regulation. To the
+contrary, there's a uh provision in the
+the Senate bill that's currently being
+considered that would forbid even states
+from making any regulation and the
+federal government isn't making any
+regulation. So, if you're asking, are we
+vulnerable right now? The answer is yes.
+Do I think that we need regulation?
+Absolutely. Are we going to get it soon?
+Well, you know, that's an issue by
+thing. We did get it for deep fake porn.
+We haven't got it for anything else. And
+one of the most dire needs is probably
+around misinformation, and nobody has
+the appetite right now in the United
+States to do anything about that. Gary
+Marcus, thank you so much for for
+joining me, and thank you for your time.
+I know you're you're in high demand.
+Thanks for having me.
+Aaron Bastani, I want to bring you in on
+this is downstream this week. Is it the
+Karen How interview? I believe so,
+Michael. Yeah.
+And what can people look forward to in
+that
+Karen How doesn't have necessarily a
+criticism of LLMs in the same way that
+Garen Marcus does? Um her her critique
+is more about the actually existing AI
+industry. Um and specifically open AI.
+Sam Alman, of course, Gary just touched
+on that a little bit about he's changed
+his mind on the motivations of Sam
+Alman. Uh but also Meta, you know, these
+are two companies now which are at the
+forefront alongside Google, of course,
+uh at the forefront of researching AI.
+And Karen's book looks at the whole
+supply chain of AI, you know, where the
+data is coming from in terms of it being
+scraped, in terms of intellectual
+property rights violations, theft
+fundamentally. Um, in terms of some of
+the people that are filtering it for us
+to use as consumers on the on the final
+end of it. Uh, so people doing some of
+the safeguarding and whatnot often in
+global south countries. Also human
+feedback to improve the quality of the
+outputs. A lot of that was happening in
+Venezuela. uh East Asia, various African
+countries like Kenya. Uh so she's really
+really good on actually existing AI,
+Silicon Valley, big tech. And her
+conclusion, Michael, is really
+startling. She says if the last 20 years
+in terms of the lack of regulation on
+big tech are repeated over the next 20
+years with regards to artificial
+intelligence, even if we don't get AGI,
+which is a really legitimate question. I
+know you're obsessed with it right now,
+Michael. Even if we don't get AGI, she
+doesn't think democracy survives.
+Wow. Do
+do you have an answer to because the
+democracy I know in um Jonathan Hay in
+his interview with you he was saying um
+that he was going to write a book about
+how democracy survives social media and
+he couldn't find an answer so he ended
+up writing a book about how it's
+destroying the mental health of children
+which he thought there was an answer to.
+Do you think that democracy is is over
+in the next 20 years because we're all
+living in different social media worlds?
+I think I don't think this is new. I
+think that we've been moving towards a
+post- literate society for a very long
+time. Obviously, the television is a big
+part of that. Um, I think that a a free
+democratic society relies on
+freethinking, high information citizens
+capable of discerning right from wrong,
+facts from untruth. Um, I don't think
+that the internet changes all of that. I
+think for many citizens, the internet
+actually, you know, allows people to
+have higher and better quality
+information. I hope people watching of
+our media think that when they watch,
+you know, your your shows and my shows
+every night at 6 p.m., Michael. uh but I
+think in the round particularly with
+generative AI I think it's something
+really new. So this is a longer trend o
+of post- literate culture and I think
+that has clearly undermined the quality
+of democratic debate but I think
+generative AI is something quite
+significant and I I I
+kind of do think that democracy may be
+over for a bunch of reasons. I mean that
+is one of them and of course the other
+is that liberal democracies in in much
+of the world aren't really producing the
+goods for their people. You know we talk
+about consent um with for instance the
+Chinese Communist Party and there is
+according to all the data a lot of
+consent a lot of satisfaction amongst
+Chinese people with regards to their
+government. The reason being over the
+last 25 years in particular before that
+too it's delivered the goods for you
+know working middle-ass Chinese people
+that's not been the case for the liberal
+democracies particularly of Europe. Um,
+you could say the US too, much of the
+US, but I think Europe really is on the
+front front line of that stuff. So, I
+think Eur I I think European democracy
+is most certainly imperiled. I think you
+can join that the low growth rates, the
+lack of perceived legitimacy with
+elites. I think you add the generous of
+AI, Michael, I think, yeah, it's in a
+it's in a spot of bother.

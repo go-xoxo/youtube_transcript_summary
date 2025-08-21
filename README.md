@@ -13,8 +13,9 @@ export OPENAI_API_KEY="<your_openai_api_key>"
 ## Usage
 
 ```bash
-./summarize_video.sh VIDEO_ID OUTPUT_SUMMARY.md
+./summarize_video.sh VIDEO_ID [OUTPUT_SUMMARY.md]
 ```
+Note: By default, the summary will be saved to `summary_<VIDEO_ID>.md` and rendered in the terminal using `mdv` (installed via `requirements.txt`).
 
 ### Example
 
