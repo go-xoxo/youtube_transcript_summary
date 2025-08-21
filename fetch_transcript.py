@@ -42,7 +42,10 @@ except Exception as e:
 
 # --- Fetch transcript ---
 try:
-    transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+    # `youtube_transcript_api` version 1.2+ exposes an instance method `list`
+    # instead of the old static `list_transcripts`. Instantiate the API client
+    # and call `.list` to retrieve available transcripts.
+    transcript_list = YouTubeTranscriptApi().list(video_id)
     print("[INFO] Available transcripts:")
     for t in transcript_list:
         t_type = "generated" if t.is_generated else "manual"
@@ -87,7 +90,13 @@ except Exception as e:
             or yt.captions.get_by_language_code('a.en')
             or yt.captions.get_by_language_code('en-US')
             or yt.captions.get_by_language_code('en-GB')
-            or next(iter(yt.captions), None)
+            # `yt.captions` behaves like a dict where iterating yields language
+            # codes. Previously we tried `next(iter(yt.captions), None)` which
+            # returned a language code string. Attempting to call
+            # `generate_srt_captions()` on that string would raise an
+            # AttributeError. Instead, iterate over the values to get an actual
+            # Caption object.
+            or next(iter(yt.captions.values()), None)
         )
         if not caption:
             raise ValueError('No captions available via pytube')
