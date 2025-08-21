@@ -13,12 +13,14 @@ with open(args.input, 'r', encoding='utf-8', errors='replace') as f:
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-response = client.responses.create(
-    model="gpt-4.1-mini",
-    instructions=f"You are a helpful assistant. Summarize the following YouTube transcript in markdown with a lot of emojis. Start with a title that includes the video ID ({args.video_id}).",
-    input=transcript,
-    max_output_tokens=3000  # You can adjust this as needed
+response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant. Summarize YouTube transcripts in markdown with a lot of emojis."},
+        {"role": "user", "content": f"Summarize the following YouTube transcript in markdown with a lot of emojis. Start with a title that includes the video ID ({args.video_id}).\n\nTranscript:\n{transcript}"}
+    ],
+    max_tokens=3000  # You can adjust this as needed
 )
 
 with open(args.output, 'w', encoding='utf-8') as f:
-    f.write(response.output_text)
+    f.write(response.choices[0].message.content)
