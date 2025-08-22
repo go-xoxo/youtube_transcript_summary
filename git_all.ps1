@@ -107,7 +107,7 @@ Section "Status After Merge" "Cyan"
 git status
 
 Section "Files Changed in Last Commit" "Cyan"
-git diff HEAD@{1} --stat
+git show --stat --oneline -1
 
 Show-ProgressBar "Git Sync" "Force-pushing to remote..." 80
 
